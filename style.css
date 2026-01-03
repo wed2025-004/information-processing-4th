@@ -40,4 +40,11 @@ nav a:hover {
   text-decoration: underline;
 }
 
+a {
+  color:  #ff9999;
+  text-decoration: none;
+}
 
+a:hover {
+  text-decoration: underline;
+}
