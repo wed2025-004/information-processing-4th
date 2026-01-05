@@ -48,3 +48,5 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+.movie-ing {width: 200px;height: 300px;object-fit: cover;}
